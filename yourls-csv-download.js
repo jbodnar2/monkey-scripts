@@ -7,10 +7,10 @@
 // @description Adds a Download CSV button to footer of the YOURLS admin page.
 // @match       https://lib.gsu.edu/admin
 // @grant       none
-// @downloadURL https://github.com/jbodnar2/stunning-fortnight/raw/main/yourls-download-csv.js
-// @updateURL   https://github.com/jbodnar2/stunning-fortnight/raw/main/yourls-download-csv.js
-// @homepageURL https://github.com/jbodnar2/stunning-fortnight
-// @supportURL  https://github.com/jbodnar2/stunning-fortnight/issues
+// @downloadURL https://github.com/jbodnar2/monkey-scripts/raw/main/yourls-download-csv.js
+// @updateURL   https://github.com/jbodnar2/monkey-scripts/raw/main/yourls-download-csv.js
+// @homepageURL https://github.com/jbodnar2/monkey-scripts
+// @supportURL  https://github.com/jbodnar2/monkey-scripts/issues
 // ==/UserScript==
 
 /**
