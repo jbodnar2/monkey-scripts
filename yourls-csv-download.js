@@ -5,7 +5,7 @@
 // @license     GPLv3
 // @version     1.0.0
 // @description Adds a Download CSV button to footer of the YOURLS admin page.
-// @match       https://lib.gsu.edu/admin
+// @match       https://lib.gsu.edu/admin/*
 // @grant       none
 // @downloadURL https://raw.githubusercontent.com/jbodnar2/monkey-scripts/main/yourls-csv-download.js
 // @updateURL   https://raw.githubusercontent.com/jbodnar2/monkey-scripts/main/yourls-csv-download.js
