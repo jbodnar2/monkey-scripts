@@ -46,7 +46,7 @@ function downloadCsvReport() {
 
 const createDownloadButton = () => {
   const button = document.createElement("button");
-  button.textContent = "Download CSV Report";
+  button.textContent = "Download CSV of Table";
   button.id = "download-csv-report";
   button.onclick = downloadCsvReport;
   button.style.cssText = `
